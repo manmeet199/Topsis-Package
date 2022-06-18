@@ -15,6 +15,5 @@ To get the output file with topsis score and rank you need to provide 4 argument
 # Sample Case:
 ```python filename.py data.csv "1,2,1,1,2" "+,-,+,-,-" outputfilename.csv```
 
-# License
-Copyright(c) 2022 Manmeet Singh Chhabra
+
 
